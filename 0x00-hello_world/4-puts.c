@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-/* main - prints phrase "Programming is like building a multilingual puzzle" , followed by new line. */
+/*
+main - prints phrase "Programming is like building a multilingual puzzle" , followed by new line. 
+*/
 
 int main(void)
 {
